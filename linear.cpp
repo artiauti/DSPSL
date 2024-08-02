@@ -3,7 +3,7 @@ using namespace std;
 
 class linearsearch{
 public:
-    int A[10], i, n, target, flag = 0, temp;
+    int A[10], i, n, target, flag = 0;
 
     void element(int n) {
         cout << "\nEnter the array element:\t";
